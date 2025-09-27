@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout title="myStore | Products">
     <div class="max-w-7xl mx-auto px-6 py-12">
         <!-- Judul -->
         <div class="text-center mb-12">
@@ -63,4 +63,5 @@
             @endforelse
         </div>
     </div>
+    <a href="/product/create" class=" bg-green-500 py-1 px-2 inline-block rounded-2xl w-16 fixed bottom-6 right-5"><img src="/plus.svg" alt=""></a>
 </x-layout>

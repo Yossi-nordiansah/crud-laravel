@@ -26,4 +26,9 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/product/create', function () {
+    return view('form-product');
+});
+
 Route::get('/product', [ProductController::class, 'index'])->name('products.index');
+

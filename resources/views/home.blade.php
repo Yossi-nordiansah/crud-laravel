@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout title="myStore | Home">
      <!-- Hero Section -->
     <div class="relative bg-gradient-to-r from-blue-500 to-indigo-600 text-white">
         <div class="max-w-7xl mx-auto px-6 py-24 flex flex-col md:flex-row items-center">

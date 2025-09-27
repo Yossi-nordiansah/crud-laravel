@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout title="myStore | Contact">
 <div class="max-w-7xl mx-auto px-6 py-16">
     <!-- Judul -->
     <div class="text-center mb-12">
